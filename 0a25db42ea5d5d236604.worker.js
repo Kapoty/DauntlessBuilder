@@ -129,7 +129,8 @@ Axe:[{name:"Turmoil of Boreus",type:"Axe",icon:"/assets/icons/weapons/boreus/Tur
 {name:"Storm Cutter",type:"Axe",icon:"/assets/icons/weapons/stormclaw/StormCutter.png",monster:"stormclaw",perks:"Energized",cells:["Power","Mobility"]},
 {name:"Valomyr's Decree",type:"Axe",icon:"/assets/icons/weapons/valomyr/ValomyrsDecree.png",monster:"valomyr",perks:"Aetherhunter",cells:["Power","Utility"]}],
 
-Repeater:[{name:"Repeater",type:"Repeater",icon:"/assets/icons/weapons/generic/Repeater.png",monster:"generic",cells:["Technique","Mobility"]}]},
+Repeater:[{name:"Repeater",type:"Repeater",icon:"/assets/icons/weapons/generic/Repeater.png",monster:"generic",cells:["Technique","Mobility"]},
+{name:"The Twin Suns",type:"Repeater",icon:"/assets/icons/weapons/generic/TheTwinSuns.png",monster:"generic",cells:["Technique","Mobility"]}]},
 
 armours:{Head:[{name:"Boreal Epiphany",type:"Head",icon:"/assets/icons/armours/boreus/BorealEpiphany.png",monster:"boreus",perks:"Conditioning",cells:"Utility"},
 {name:"The Skullforge",type:"Head",icon:"/assets/icons/armours/charrogg/TheSkullforge.png",monster:"charrogg",cells:"Defence"},
